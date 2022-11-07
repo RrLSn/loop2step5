@@ -6,15 +6,15 @@ An implementation of Loop 2 assignment step 5 with HTML/CSS
 clone or download this respository and run with a local server of open 'index.html' with your favorite browser
 
 # Prequisite
-Your browser version must be recent for a better experience https://github.com/RrLSn/loop2step1.git
+Your browser version must be recent for a better experience https://github.com/RrLSn/loop2step5.git
 
 # Tech/framework used
 HTML
 CSS
 
 # Demo
-[preview](https://rawcdn.githack.com/RrLSn/loop2step1/000584d6531e9cc34426f7ef7b486cd72ad3b697/index.html)
-![screenshot](./media/Screenshot%202022-11-05%20144332.png)
+[preview](https://rawcdn.githack.com/RrLSn/loop2step5/32c21fa468ae13c3261eab23cbfc1be36f563bac/index.html)
+![screenshot](./media/Screenshot%202022-11-07%20154358.png)
 
 # Contact
 If you want to contact me, you can reach me at
