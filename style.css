@@ -16,9 +16,10 @@ body{
 .bx{
     width: 47rem;
     height: 54rem;
-    background-color: #f0ca44;
+    background-color: #d0ae20;
     margin-left: 71rem;
     transform: skew(-11.5deg);
+    opacity: 0.8;
 }
 
 .row{
